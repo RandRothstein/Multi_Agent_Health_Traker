@@ -1,13 +1,12 @@
 from langchain_core.tools import Tool
 from tools.bmi_tool import calculate_bmi
-
+import regex as re
 def basic_workout(input_str:str):
     
     try:
         weight = re.search(r'weight.*?(\d+)', input_str, re.IGNORECASE)
         height = re.search(r'height.*?(\d+)', input_str, re.IGNORECASE)
         bmi = calculate_bmi(weight,height)
-        print(f"bmi calculated")
     except:
         return "Missing height and weight"
     
