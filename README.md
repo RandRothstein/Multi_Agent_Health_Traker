@@ -15,5 +15,6 @@ This project leverages multiple AI-powered tools, including BMI calculation, cal
 
 ### Project workflow:
 
-![Uploading image.png…]()
+<img width="305" height="454" alt="image" src="https://github.com/user-attachments/assets/bd72d097-77d0-473c-8c1b-735ba4c7978d" />
+
 
