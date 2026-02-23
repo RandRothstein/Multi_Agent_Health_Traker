@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Multi_Agent_Health_Traker
-=======
 # Multi_Agent_Health_Traker
 
 This project leverages multiple AI-powered tools, including BMI calculation, calorie estimation, workout planning, and a nutrition RAG system, to provide personalized fitness guidance. By integrating these tools within a unified agent framework, the application intelligently selects and executes the appropriate function to deliver accurate, context-aware health and fitness recommendations.
