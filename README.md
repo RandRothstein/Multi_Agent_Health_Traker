@@ -6,7 +6,7 @@ This project leverages multiple AI-powered tools, including BMI calculation, cal
 ### Teck Stack Used:
 ✅ Python
 ✅ Streamlit (UI)
-✅ LangChain + LangGraph (Agent + Tools)
+✅ LangChain (2 Agent + Tools)
 ✅ Google AI Studio / Gemini models
 ✅ FAISS (Vector Store)
 ✅ PDF text retrieval (PyPDFLoader & TextSplitter & FAISS & regex)
